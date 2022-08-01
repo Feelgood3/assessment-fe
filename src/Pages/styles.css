@@ -1,0 +1,10 @@
+img{
+  height: 400px;
+}
+
+@media (min-width:768px){
+  .product-detail__container{
+    max-width: 1200px;
+    margin:0 auto;
+  }
+}
